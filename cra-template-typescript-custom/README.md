@@ -7,11 +7,11 @@ To use this template, add `--template typescript` when creating a new app.
 For example:
 
 ```sh
-npx create-react-app my-app --template typescript
+npx create-react-app my-app --template file:./cra-template-typescript-custom
 
 # or
 
-yarn create react-app my-app --template typescript
+yarn create-react-app my-app --template file:./cra-template-typescript-custom
 ```
 
 For more information, please refer to:
